@@ -9,4 +9,4 @@ Automatically sets valid models to Humanoid and other usual settings upon import
 - Removes Jaw bone if invalid
 
 ### Thank you
-If you enjoy Texture Utility, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
+If you enjoy VRCProcessor, please consider [supporting me ♡](https://ko-fi.com/Dreadrith)!
