@@ -1,4 +1,4 @@
-# Texture Utility
+# VRCProcessor
 Automatically sets valid models to Humanoid and other usual settings upon import.
 
 ## Features
