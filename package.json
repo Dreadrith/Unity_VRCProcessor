@@ -1,0 +1,16 @@
+{
+  "name": "com.dreadscripts.vrcprocessor",
+  "displayName": "DreadScripts - VRCProcessor",
+  "version": "1.0.0",
+  "description": "Automatically sets valid models to Humanoid and other usual settings upon import.",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Dreadrith",
+    "email": "dreadscripts@gmail.com",
+    "url": "https://www.dreadrith.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool"
+}
