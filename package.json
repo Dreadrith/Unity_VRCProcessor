@@ -1,7 +1,7 @@
 {
   "name": "com.dreadscripts.vrcprocessor",
   "displayName": "DreadScripts - VRCProcessor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically sets valid models to Humanoid and other usual settings upon import.",
   "gitDependencies": {},
   "vpmDependencies": {},
@@ -12,5 +12,6 @@
   },
   "legacyFolders": {},
   "legacyFiles": {},
-  "type": "tool"
+  "type": "tool",
+  "unity": "2019.4"
 }
